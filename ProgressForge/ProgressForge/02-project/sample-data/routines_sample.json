@@ -1,0 +1,29 @@
+{
+    "Chest": [
+        "Incline Dumbbell Press",
+        "Machine Chest Press",
+        "Cable Fly",
+        "Tricep Pushdown"
+    ],
+    "Back": [
+        "Lat Pulldown",
+        "Seated Cable Row",
+        "Chest-Supported Row",
+        "Dumbbell Curl"
+    ],
+    "Shoulders": [
+        "Dumbbell Shoulder Press",
+        "Lateral Raise",
+        "Tricep Pushdown"
+    ],
+    "Arms": [
+        "Dumbbell Curl",
+        "Tricep Pushdown",
+        "Lateral Raise"
+    ],
+    "Legs": [
+        "Leg Press",
+        "Leg Extension",
+        "Hamstring Curl"
+    ]
+}
